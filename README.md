@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+1일 1커밋 시작....
+
 <!--
 **01stone/01stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
