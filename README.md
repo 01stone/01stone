@@ -2,6 +2,7 @@
 20211214 : 1일 1커밋 시작....
 
 20211228 : 포트폴리오 작성중. 반성하자~!
+20211231 : 공부 안했는데 1일 1커밋 하려고 지금 readme 업데이트함. 반성하자~!
 
 <!--
 **01stone/01stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
