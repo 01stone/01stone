@@ -5,6 +5,14 @@
 20211231 : 공부 안했는데 1일 1커밋 하려고 지금 readme 업데이트함. 반성하자~!  
 20210109 : Organization branch에 커밋은 커밋이 안된다...자바의 정석 chap4,5 연슴문제 풀었음..
 
+
+<!--  
+공부할 것
+지바스크립트 : https://learnjs.vlpt.us/
+
+
+-->
+
 <!--
 **01stone/01stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
