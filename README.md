@@ -19,8 +19,10 @@
 지바스크립트 : https://learnjs.vlpt.us/
 리액트 : https://github.com/velopert/react-tutorial/blob/master/SUMMARY.md
 
-1월 28일 면접봄 cnn과 멀티레이어 차이, 엑티베이션함수, cnn이 이미지 처리에 유리한 이유, 렐루함수, 등 기본적인거 물어봤었음
+1월 28일 면접봄 cnn과 멀티레이어 차이, 엑티베이션함수, cnn이 이미지 처리에 유리한 이유, 렐루함수, 등 기본적인거 물어봤었음 
+2월 1일 설날, 자소서 쓰는 중임
 -->
+
 
 <!--
 **01stone/01stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
